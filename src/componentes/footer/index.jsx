@@ -13,7 +13,7 @@ const Footer = () => {
                 <img src="./img/twitter.png" alt="Twitter"/>
             </a>
         </div>
-        <img src="org/build/img/logo.png" alt="Logo_org"/>
+        <img src="org/build/img/Logo.png" alt="Logo_org"/>
         <strong>Desarrollado por Mafer</strong>
         
     </footer>
